@@ -25,3 +25,7 @@ Só clicar no link do JAR
 Usa essa cara para decompilar o jar e ver as classes
 
 **********
+
+Hibernate Inheritance Mapping
+Fazendo herança com Hibernate
+https://www.baeldung.com/hibernate-inheritance
