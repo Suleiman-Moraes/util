@@ -29,3 +29,8 @@ Usa essa cara para decompilar o jar e ver as classes
 Hibernate Inheritance Mapping
 Fazendo herança com Hibernate
 https://www.baeldung.com/hibernate-inheritance
+
+**********
+
+Download JDK
+https://adoptium.net/download/
